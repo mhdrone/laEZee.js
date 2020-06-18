@@ -1,0 +1,16 @@
+[
+  {
+    "name":"example name",
+    "gender":"male/female",
+    "roommateOne":"name of pick one",
+    "roommateTwo":"name of pick two",
+    "roommateThree":"name of pick three"
+  },
+  {
+    "name":"example name2",
+    "gender":"male/female",
+    "roommateOne":"name of pick one",
+    "roommateTwo":"name of pick two",
+    "roommateThree":"name of pick three"
+  }
+]
