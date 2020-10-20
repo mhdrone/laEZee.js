@@ -9,8 +9,8 @@ modules. Roommates are stored in JSON and rooms are outputed in the same format.
 
 ## File Descriptions:
 
-- modules - failed testing to make laEZee a module
-- pytojson - a program to change python arrays to JSON
-- app.js - main algorithm
-- example.json - an example of how the residents are stored before being sorted
-- residents.json - an example list of residents for algorithm testing
+- [modules](modules) - failed testing to make laEZee a module
+- [pytojson](pytojson) - a program to change python arrays to JSON
+- [app.js](app.js) - main algorithm
+- [example.json](example.json) - an example of how the residents are stored before being sorted
+- [residents.json](residents.json) - an example list of residents for algorithm testing
